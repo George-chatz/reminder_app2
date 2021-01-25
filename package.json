@@ -1,0 +1,25 @@
+{
+  "name": "reminder_app2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/George-chatz/reminder_app2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/George-chatz/reminder_app2/issues"
+  },
+  "homepage": "https://github.com/George-chatz/reminder_app2#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3"
+  }
+}
